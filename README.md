@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **vanshika.2125cs1039@kiet.edu**
+- 📫 How to reach me **vanshikag100803@gmail.com**
 
 - ⚡ Fun fact **Passionate about environmental sustainability**
 
