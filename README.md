@@ -15,37 +15,38 @@
 
 ### About me
 
-I help teams make better product decisions with data.
+I turn messy operational data into decisions.
 
-As a **Data Analyst**, my day-to-day is about asking sharp questions, getting clean answers from messy data, and presenting them in a way that moves people to act. My engineering background (Django, APIs) and machine learning experience mean I understand data end to end, from where it's generated to how it is modelled and reported.
+I'm an **Automation & Analytics Engineer at Airtel (B2B Operations)**, where I lead **Insight360** — an analytics platform used by **400+ people**, with **20+ KPI/SLA dashboards** processing **100K+ records a month**. The dashboards helped cut monthly escalations by **90%**, and report automation reduced manual reporting effort by **70%**.
 
 ```yaml
-role:        Data Analyst
-works_on:    KPIs, dashboards, funnel & cohort analysis, experiment readouts
-strengths:   SQL, Python, data storytelling, stakeholder communication
-background:  Machine learning, backend engineering (Django)
-open_to:     Conversations on analytics, product strategy and applied ML
+role:        Automation & Analytics Engineer @ Airtel (B2B Operations)
+works_on:    KPI/SLA dashboards, root-cause analysis, report automation, ETL
+strengths:   SQL, Python, Power BI, Tableau, Excel, data storytelling
+research:    ML for admission prediction - published by Springer (ICCIIR 2025)
+open_to:     Data Analyst, BI Analyst, Product Analyst and Data Scientist roles
 ```
 
 ---
 
-### What I bring to a team
+### Highlights
 
 | | |
 |---|---|
-| 📈 **Analytics that drive action** | Define the right metrics, build the dashboards, and explain what changed and why. |
-| 🧭 **Product sense** | Translate user and business problems into measurable questions and clear priorities. |
-| 🧪 **Experimentation** | Design and read A/B tests and track feature impact with statistical rigour. |
-| 🤖 **Predictive modelling** | Use ML for forecasting, classification, and recommendations where it adds real value. |
+| 📊 **Insight360 @ Airtel** | Led an analytics platform for 400+ users: 20+ dashboards, 90% fewer escalations, 70% less manual reporting |
+| 📄 **Springer publication** | *A Comparative Study of ML Algorithms for Predicting Engineering & Technology Admissions* (ICCIIR 2025) |
+| 🎯 **GATE Data Science & AI 2025** | All India Rank 2270 |
+| 🎓 **B.Tech CSE, KIET** | CGPA 9.2 · Top 5 all four years · Amazon ML Summer School '24 |
 
 ---
 
 ### Journey
 
-- 💼 **Data Analyst** — current role, working on product and business analytics
+- 💼 **Automation & Analytics Engineer, Airtel** — leading Insight360, KPI/SLA monitoring and automated reporting for B2B operations
+- 🏢 **GET '25 Intern, Airtel B2B Networks** (Jan–Jun 2025) — data analysis and network operations
 - 🛠️ **Backend Web Intern, Plutonics Services Pvt. Ltd.** — built Django features and APIs
-- 🎓 **Machine Learning Mentor, EngineerHub** — guided learners through core ML concepts
-- 🌍 **Open source: GSSoC '23 · SSOC '23** — contributed to community projects
+- 🎓 **ML Mentor, EngineerHub** — mentored 15+ students · **President, NSS** — led 200+ volunteers
+- 🌍 **Open source: GSSoC '23 · SSOC '23**
 
 ---
 
@@ -53,11 +54,11 @@ open_to:     Conversations on analytics, product strategy and applied ML
 
 | Project | What it solves | Stack |
 |---|---|---|
+| [**FutureNxt** 📄](https://github.com/itsvanshika/FutureNxt) | Admission and job trend prediction — the project behind my Springer-published research | Python · XGBoost · SVM · Visualisation |
 | [**Sales & Unemployment Analysis**](https://github.com/itsvanshika/OIBSIP) | Sales forecasting from ad spend and regional unemployment trends (Oasis Infobyte internship) | Python · Pandas · Plotly · Scikit-learn |
 | [**Hotel Recommendation**](https://github.com/itsvanshika/hotel-recommendation) | Scraped hotel data, analysed reviews and recommends hotels from a free-text request | Scrapy · spaCy · Streamlit |
 | [**Multiple Disease Prediction**](https://github.com/itsvanshika/multiple-disease-prediction-model) | Risk prediction for diabetes, heart disease, Parkinson's and breast cancer | Scikit-learn · Streamlit |
 | [**Admission Prediction**](https://github.com/itsvanshika/admission) | Predicts admission outcomes from 3 years of admission data, served as a web app | XGBoost · Flask |
-| [**FutureNxt**](https://github.com/itsvanshika/FutureNxt) | Admission and job trends in engineering across regions | Python · Analytics · Visualisation |
 
 ---
 
@@ -66,7 +67,7 @@ open_to:     Conversations on analytics, product strategy and applied ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,sklearn,tensorflow,pytorch,opencv&perline=8" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=django,git,github,aws,gcp,figma,notion,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=django,flask,git,github,aws,gcp,figma,linux&perline=8" />
 </p>
 
 <p align="center">
