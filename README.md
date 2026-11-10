@@ -53,10 +53,11 @@ open_to:     Conversations on analytics, product strategy and applied ML
 
 | Project | What it solves | Stack |
 |---|---|---|
-| [**FutureNxt**](https://github.com/itsvanshika/FutureNxt) | Forecasts admission and job trends in engineering across regions | Python · Analytics · Visualisation |
-| [**Multiple Disease Prediction**](https://github.com/itsvanshika/multiple-disease-prediction-model) | Estimates risk of several diseases from patient health indicators | Python · Scikit-learn |
-| [**Hotel Recommendation**](https://github.com/itsvanshika/hotel-recommendation) | Matches users to hotels based on location and room preferences | Python · Recommender systems |
-| [**VRsecure**](https://github.com/itsvanshika/VRsecure) | Safer solo travel through VR previews and live GPS tracking | Web · Product design |
+| [**Sales & Unemployment Analysis**](https://github.com/itsvanshika/OIBSIP) | Sales forecasting from ad spend and regional unemployment trends (Oasis Infobyte internship) | Python · Pandas · Plotly · Scikit-learn |
+| [**Hotel Recommendation**](https://github.com/itsvanshika/hotel-recommendation) | Scraped hotel data, analysed reviews and recommends hotels from a free-text request | Scrapy · spaCy · Streamlit |
+| [**Multiple Disease Prediction**](https://github.com/itsvanshika/multiple-disease-prediction-model) | Risk prediction for diabetes, heart disease, Parkinson's and breast cancer | Scikit-learn · Streamlit |
+| [**Admission Prediction**](https://github.com/itsvanshika/admission) | Predicts admission outcomes from 3 years of admission data, served as a web app | XGBoost · Flask |
+| [**FutureNxt**](https://github.com/itsvanshika/FutureNxt) | Admission and job trends in engineering across regions | Python · Analytics · Visualisation |
 
 ---
 
